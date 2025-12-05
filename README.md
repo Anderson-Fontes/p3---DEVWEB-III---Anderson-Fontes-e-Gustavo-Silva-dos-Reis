@@ -1,5 +1,3 @@
-Aqui está o texto do README.md em uma versão bem simples e direta. Você pode copiar e colar direto no arquivo.
-
 Sistema de Reservas de Mesa - P3
 Projeto desenvolvido para a disciplina de Desenvolvimento Web III. O sistema gerencia reservas de restaurante com um mapa visual interativo.
 
